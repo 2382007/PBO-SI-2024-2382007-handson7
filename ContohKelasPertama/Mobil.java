@@ -29,10 +29,10 @@ public class Mobil {
         return kecepatanMaks;
     }
     public void setWarna(String warna) {
-        this.warna
+        this.warna;
     }
     public void setMerek(String merek) {
-        this.merek
+        this.merek;
     }
     public void setKecepatanMaks(String kecepatanMaks) {
         this.kecepatanMaks = kecepatanMaks;
