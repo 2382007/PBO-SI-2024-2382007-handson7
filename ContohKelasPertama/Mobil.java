@@ -29,12 +29,12 @@ public class Mobil {
         return kecepatanMaks;
     }
     public void setWarna(String warna) {
-        this.warna;
+        this.warna = warna;
     }
     public void setMerek(String merek) {
-        this.merek;
+        this.merek = merek;
     }
-    public void setKecepatanMaks(String kecepatanMaks) {
+    public void setKecepatanMaks(int kecepatanMaks) {
         this.kecepatanMaks = kecepatanMaks;
     }
 }

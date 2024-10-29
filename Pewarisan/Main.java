@@ -2,8 +2,8 @@ package Pewarisan;
 
 public class Main {
     public static void main(String[] args) {
-
-        Mobil mobilAvanza = new Mobil("Toyota", "Avanza", 2024, 1);
+        Mobil mobilAvanza = new Mobil("Toyota", "Avanza", 2024, 1, "Bensin");
         mobilAvanza.tampilkanInfoMobil();
+
     }
 }
